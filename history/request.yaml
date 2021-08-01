@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: CE07SHSP-SP001-09-PARADJ000-recovered_cspp-parad_j_cspp_instrument_recovered
-last_request: '2021-07-19T18:40:22.804559Z'
+last_request: '2021-08-01T00:49:39.258380Z'
 response: https://raw.githubusercontent.com/ooi-data/CE07SHSP-SP001-09-PARADJ000-recovered_cspp-parad_j_cspp_instrument_recovered/main/history/response.json
-status: failed
+status: pending
